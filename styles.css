@@ -1,0 +1,36 @@
+body{
+    background-color: pink;
+    color: white;
+    font-family: cursive;
+}
+
+p{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    width: 100px;
+    position: absolute;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 0;
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 20px;
+
+}
+
+.hidden{
+    display: none;
+}
+
+#move{
+    left: 200px;
+}
+
+#change:hover{
+    cursor: pointer;
+}
